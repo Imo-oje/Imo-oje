@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ehigai Salvation
+- 👋 Hi, I’m Ehigai Salvation an Electrical/Electronics Engineering student
 - 👀 I’m interested in Web development and control systems Engineering
 - 🌱 I’m currently learning Matlab
 - 💞️ I’m looking to collaborate on project related to innovative tech solutions
